@@ -1,5 +1,6 @@
 # PowerBI
-Power BI Projects
+
+
 Overview:
 This Power BI project provides insights into the presence of employees in an organization. It uses data from the organization's attendance tracking system to analyze and visualize employee attendance patterns. The project consists of several visualizations, including a dashboard, charts, and tables that provide insights into the presence of employees in different departments, locations, and teams.
 
